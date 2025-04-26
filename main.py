@@ -74,7 +74,6 @@ def main():
         
         elif opcao == 4:
             exibir_info_regex()
-            continue
         
         elif opcao in [1, 2, 3]:
             placa = input("\nDigite a placa a ser validada: ")
